@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<hr>
+
 
 <p align="center">
 <br>
@@ -16,7 +16,6 @@ HTML / CSS / PHP
 <br>
 </p>
 
-<hr>
 
 <h2 align="center">Statistiken:</h2>
 <br>
@@ -29,10 +28,9 @@ HTML / CSS / PHP
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=xamtodd&hide=stars,issues&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
     </a>
   </div>
-  <br>
+ 
   <br>
 
-<hr>
 <br>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/78021255?v=4">
