@@ -1,16 +1,49 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xamtodd">
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Moin,+ich+bin+xamtodd!&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**xamtodd/xamtodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<p align="center">
+<br>
+Java
+<br>
+HTML / CSS / PHP
+<br>
+<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2 align="center">Statistiken:</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamtodd&theme=highcontrast&layout=compact&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="blank">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=xamtodd&hide=stars,issues&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+
+<hr>
+<br>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/78021255?v=4">
+</p>
+<br>
+<hr>
+<p  align="center">
+<sub>
+Inspiriert von:<br>
+<a href="https://github.com/zumrudu-anka/zumrudu-anka" target="blank">zumrudu-anka</a>,
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="blank">awesome-github-profile-readme</a>,
+<a href="https://github.com/Swaggeroo/" target="blank">Swaggeroo</a>
+</sub>
+</p>
