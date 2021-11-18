@@ -11,7 +11,7 @@
     <br>
         Java
     <br>
-        HTML / CSS / PHP
+        HTML / CSS / PHP / JS
     <br>
     <br>
 </p>
