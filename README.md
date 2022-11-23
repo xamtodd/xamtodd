@@ -9,7 +9,7 @@
 
 <p align="center">
     <br>
-        Java / SQL
+        Java / SQL / C
     <br>
         HTML / CSS / PHP / JS
     <br>
