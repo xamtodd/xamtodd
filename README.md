@@ -16,7 +16,7 @@ public class Profile {
         languages.add(new Language("HTML"));
         languages.add(new Language("CSS"));
 
-        this.operatingSystem = "MacOS &#63743;";
+        this.operatingSystem = "MacOS";
     }
 }
 ```
